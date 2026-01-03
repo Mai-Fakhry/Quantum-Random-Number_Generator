@@ -25,8 +25,3 @@ Before you begin, make sure you have:
 - Python 3.6+
 - Qiskit (if using IBM quantum backends)
 - (Optional) IBM Quantum API token for running on real hardware
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
